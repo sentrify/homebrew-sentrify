@@ -5,7 +5,7 @@ Homebrew tap for sentrify.
 ## Installation
 
 ```bash
-brew tap YOURUSERNAME/sentrify
+brew tap sentrify/sentrify
 brew install sentrify
 ```
 # homebrew-sentrify
